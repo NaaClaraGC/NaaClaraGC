@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Ana Clara
-- 👀 Sou estudante de Análise e Desenvolvimento de Sistemas
+- 👀 Sou estudante de Análise e Desenvolvimento de Sistemas e iniciante em programação
 - 📩 anaclaragoncalves2004@gmail.com
 
 <!---
